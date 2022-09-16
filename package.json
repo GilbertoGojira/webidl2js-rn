@@ -1,5 +1,5 @@
 {
-  "name": "webidl2js",
+  "name": "webidl2js-rn",
   "version": "17.1.0",
   "description": "Auto-generates class structures for WebIDL specifications",
   "main": "lib/transformer.js",
